@@ -1,0 +1,139 @@
+repo_name: ayungavis/disnaker
+report_id: 33f95f5cbc977ba743a44659b0d0d439
+repo_type: Public
+timestamp: '2023-11-24T02:04:15+00:00'
+requested_by: ayungavis
+provider: github
+branch: master
+detected_tools_count: 12
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Hack
+  description: A programming language for HHVM that interoperates seamlessly with
+    PHP
+  website_url: http://hacklang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source: disnaker.sql
+  last_updated_by: ayungavis
+  last_updated_on: 2019-04-26 09:20:52.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source: composer.json
+  last_updated_by: ayungavis
+  last_updated_on: 2019-04-26 09:20:52.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: application/cache/index.html
+  last_updated_by: ayungavis
+  last_updated_on: 2019-04-26 09:20:52.000000000 Z
+- name: dompdf/dompdf
+  description: DOMPDF is a CSS 2.1 compliant HTML to PDF converter
+  package_url: https://packagist.org/dompdf/dompdf
+  version: 0.8.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: composer.json
+  detection_source: composer.json
+  last_updated_by: ayungavis
+  last_updated_on: 2019-04-26 09:20:52.000000000 Z
+- name: mikey179/vfsStream
+  description: Virtual file system to mock the real file system in unit tests
+  package_url: https://packagist.org/mikey179/vfsStream
+  version: '1.1'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: composer.json
+  detection_source: composer.json
+  last_updated_by: ayungavis
+  last_updated_on: 2019-04-26 09:20:52.000000000 Z
+- name: mpdf/mpdf
+  description: PHP library generating PDF files from UTF-8 encoded HTML
+  package_url: https://packagist.org/mpdf/mpdf
+  version: '8.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: composer.json
+  detection_source: composer.json
+  last_updated_by: ayungavis
+  last_updated_on: 2019-04-26 09:20:52.000000000 Z
+- name: phpunit/phpunit
+  description: The PHP Unit Testing framework
+  package_url: https://packagist.org/phpunit/phpunit
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source: composer.json
+  last_updated_by: ayungavis
+  last_updated_on: 2019-04-26 09:20:52.000000000 Z
